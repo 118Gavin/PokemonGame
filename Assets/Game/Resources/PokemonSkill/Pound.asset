@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56c0ea3cb0b196d419fe77fce3a05c64, type: 3}
+  m_Name: Pound
+  m_EditorClassIdentifier: 
+  skillName: "\u62CD\u51FB"
+  description: "\u4F7F\u7528\u957F\u957F\u7684\u5C3E\u5DF4\u6216\u624B\u7B49\u62CD\u6253\u5BF9\u624B\u8FDB\u884C\u653B\u51FB\u3002"
+  type: 0
+  power: 10
+  accuracy: 85
+  pp: 20
+  category: 1
+  effects: []
+  target: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56c0ea3cb0b196d419fe77fce3a05c64, type: 3}
+  m_Name: Scratch
+  m_EditorClassIdentifier: 
+  skillName: "\u6293"
+  description: "\u7528\u575A\u786C\u4E14\u65E0\u6BD4\u950B\u5229\u7684\u722A\u5B50\u6293\u5BF9\u624B\u8FDB\u884C\u653B\u51FB\u3002"
+  type: 0
+  power: 10
+  accuracy: 100
+  pp: 30
+  category: 1
+  effects: []
+  target: 0

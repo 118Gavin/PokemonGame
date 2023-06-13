@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3b6666820536d440af96da5129856c1, type: 3}
+  m_Name: Pickachu
+  m_EditorClassIdentifier: 
+  pokemonName: "\u76AE\u5361\u4E18"
+  description: 
+  backSprite: {fileID: 21300000, guid: b2483f3064e241143baf1ef61c4b11f5, type: 3}
+  frontSprite: {fileID: 21300000, guid: 8fb3e183feb6da84fa0bb26f0bbacb21, type: 3}
+  type1: 8
+  type2: 4
+  maxHp: 35
+  attack: 55
+  defense: 40
+  spAttack: 50
+  spDefense: 50
+  speed: 90
+  learnSkills:
+  - skillBase: {fileID: 11400000, guid: ce83e5f8562ca7842bf48b36fe8d3d4b, type: 2}
+    level: 0
+  - skillBase: {fileID: 11400000, guid: c69f2e2506b6c2f439a265327b142407, type: 2}
+    level: 7
+  - skillBase: {fileID: 11400000, guid: 23cfcfb41b297f643b8db4285b6c5603, type: 2}
+    level: 10
